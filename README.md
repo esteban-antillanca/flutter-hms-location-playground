@@ -1,4 +1,4 @@
-# hms flutter hms location playground
+# hms flutter location playground
 
 A basic Flutter application with HMS location integration for academic purposes.
 
