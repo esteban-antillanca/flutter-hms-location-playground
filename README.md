@@ -1,6 +1,14 @@
-# hms_flutter_playground
+# hms flutter location playground
 
-A new Flutter application with HMS integrations for academic purposes
+A basic Flutter application with HMS location integration for academic purposes.
+
+## Features
+- A simple wrapper class for location API calls
+- Location Permission Handling
+- Data by last known location
+- Data by request location updates
+- Basic adaptation to flutter lifecycle
+
 
 ## Getting Started
 
