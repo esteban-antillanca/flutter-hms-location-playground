@@ -3,7 +3,7 @@
 A basic Flutter application with HMS location integration for academic purposes.
 
 ## Features
-- A simply wrapper class for location API calls
+- A simple wrapper class for location API calls
 - Location Permission Handling
 - Data by last known location
 - Data by request location updates
